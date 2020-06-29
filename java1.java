@@ -5,4 +5,5 @@ public static void main(String[] args) {
         int[][] n = new int[x][y];
         solution(n, x, y);
         System.out.println(n[x - 1][y - 1]);
+        System.out.println(n[x - 1][y - 1]);
     }
